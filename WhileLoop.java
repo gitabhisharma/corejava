@@ -3,7 +3,7 @@
 
 public class WhileLoop {
     public static void main(String[] args) {
-        //Enter the value of your requriment
+        //Enter the value of i is equal to 1
         int i = 1;
 
         //Check the conditions to Lop statement .
